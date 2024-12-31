@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Counter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_started">GET STARTED</string>
+    <string name="counter_app">Counter App</string>
+    <string name="your_result_is_displayed_here">Your Result is displayed here</string>
+    <string name="increment">INCREMENT</string>
+    <string name="decrement">DECREMENT</string>
+    <string name="next">NEXT</string>
+    <string name="result_is">Result is:</string>
+    <string name="result">Result</string>
+</resources>
